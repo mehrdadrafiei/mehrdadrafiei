@@ -4,7 +4,7 @@ By day, I'm a Python Developer; by night, I'm exploring creative coding and divi
 **Tech stack:** Python, SQL, Docker, Linux.  
 **Active in:** Open-source projects, dev communities, and continuous learning.  
 
-🎸 **Hobbies:** Experimental music, movies, and video games like *Soulslike*.  
+🎮 **Hobbies:** Experimental music, movies, and video games like *Soulslike*.  
 
 💬 **Let's connect:**  
 Ping me about Python, development tips, or just to chat about tech.  
