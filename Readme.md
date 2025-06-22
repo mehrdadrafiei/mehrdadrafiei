@@ -10,9 +10,6 @@ By day, I'm a Python Developer; by night, I explore creative coding and dive int
 
 🎮 **Hobbies:** Experimental music, movies, and video games like *Soulslike*.  
 
-**Let's connect:**  
-Ping me about Python, development tips, or chat about tech.  
-
 📫 **Reach me at:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrdadrafiei)
