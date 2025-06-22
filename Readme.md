@@ -1,5 +1,5 @@
  # 👾 Mehrdad Rafiei
-## Back-end/Python Developer
+## Back-End Developer / Data Engineer
 By day, I'm a Python Developer; by night, I explore creative coding and dive into tech, art, and movies.  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
